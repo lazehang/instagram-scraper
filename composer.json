@@ -1,0 +1,9 @@
+{
+    "name": "undone/instagram-scraper",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Undone\\InstagramScraper\\": "src/"
+        }
+    }
+}
